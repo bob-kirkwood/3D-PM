@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<FolderMgr xmlns="http://tempuri.org/FolderMgmg.xsd">
+  <SldprtFiles>
+    <ID>-1</ID>
+    <strFile>VALVECAGE-20.SLDPRT</strFile>
+    <dtm>2024-08-30T20:17:44.8228329-04:00</dtm>
+  </SldprtFiles>
+  <SldprtFiles>
+    <ID>-2</ID>
+    <strFile>VALVECAGE-15.SLDPRT</strFile>
+    <dtm>2024-08-30T20:17:44.6015337-04:00</dtm>
+  </SldprtFiles>
+  <DcvFiles>
+    <ID>-1</ID>
+    <strFile>ValveCage20-15.dcv.xml</strFile>
+    <idPrevFile>-1</idPrevFile>
+    <dtmPrev>2024-08-30T20:17:44.8228329-04:00</dtmPrev>
+    <idCurrFile>-2</idCurrFile>
+    <dtmCurr>2024-08-30T20:17:44.6015337-04:00</dtmCurr>
+    <strVersion>1.2</strVersion>
+    <dtm>2024-08-30T20:18:23.661961-04:00</dtm>
+    <nStatus>9</nStatus>
+  </DcvFiles>
+  <BodyRef>
+    <ID>-1</ID>
+    <strName>CirPattern1</strName>
+    <idSldprt>-1</idSldprt>
+  </BodyRef>
+  <BodyRef>
+    <ID>-2</ID>
+    <strName>CirPattern1</strName>
+    <idSldprt>-2</idSldprt>
+  </BodyRef>
+</FolderMgr>

@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<FolderMgr xmlns="http://tempuri.org/FolderMgmg.xsd">
+  <SldprtFiles>
+    <ID>-1</ID>
+    <strFile>CTC-05-A.SLDPRT</strFile>
+    <dtm>2024-08-30T17:47:44-04:00</dtm>
+  </SldprtFiles>
+  <SldprtFiles>
+    <ID>-2</ID>
+    <strFile>CTC-05-B.SLDPRT</strFile>
+    <dtm>2024-08-30T17:47:40-04:00</dtm>
+  </SldprtFiles>
+  <DcvFiles>
+    <ID>-1</ID>
+    <strFile>CTC-05-AB.dcv.xml</strFile>
+    <idPrevFile>-1</idPrevFile>
+    <dtmPrev>2024-08-30T17:47:44-04:00</dtmPrev>
+    <idCurrFile>-2</idCurrFile>
+    <dtmCurr>2024-08-30T17:47:40-04:00</dtmCurr>
+    <strVersion>1.2</strVersion>
+    <dtm>2024-09-23T20:44:26.7617266-04:00</dtm>
+    <nStatus>7</nStatus>
+  </DcvFiles>
+  <BodyRef>
+    <ID>-1</ID>
+    <strName>Imported1</strName>
+    <idSldprt>-1</idSldprt>
+  </BodyRef>
+  <BodyRef>
+    <ID>-2</ID>
+    <strName>NONE</strName>
+    <idSldprt>-2</idSldprt>
+  </BodyRef>
+</FolderMgr>
